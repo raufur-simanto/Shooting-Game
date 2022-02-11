@@ -1,0 +1,1366 @@
+(['E:\\Projects\\Shooting_Game\\main.py'],
+ ['E:\\Projects\\Shooting_Game', 'E:\\Projects\\Shooting_Game'],
+ ['codecs'],
+ ['c:\\users\\raufur '
+  'rahman\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\stdhooks',
+  'c:\\users\\raufur '
+  'rahman\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\stdhooks\\__pycache__',
+  'c:\\users\\raufur '
+  'rahman\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\rthooks',
+  'c:\\users\\raufur '
+  'rahman\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks\\rthooks\\__pycache__',
+  'c:\\users\\raufur '
+  'rahman\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\_pyinstaller_hooks_contrib\\hooks'],
+ [],
+ [],
+ False,
+ False,
+ '3.7.8 (tags/v3.7.8:4b47a5b6ba, Jun 28 2020, 08:53:46) [MSC v.1916 64 bit '
+ '(AMD64)]',
+ [('pyi_rth_pkgres',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgres.py',
+   'PYSOURCE'),
+  ('pyi_rth_win32comgenpy',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_win32comgenpy.py',
+   'PYSOURCE'),
+  ('main', 'E:\\Projects\\Shooting_Game\\main.py', 'PYSOURCE')],
+ [('win32com',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32com\\__init__.py',
+   'PYMODULE'),
+  ('win32com.server.util',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32com\\server\\util.py',
+   'PYMODULE'),
+  ('win32com.server.dispatcher',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32com\\server\\dispatcher.py',
+   'PYMODULE'),
+  ('win32traceutil',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32\\lib\\win32traceutil.py',
+   'PYMODULE'),
+  ('win32com.util',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32com\\util.py',
+   'PYMODULE'),
+  ('win32con',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32\\lib\\win32con.py',
+   'PYMODULE'),
+  ('win32com.server.exception',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32com\\server\\exception.py',
+   'PYMODULE'),
+  ('winerror',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32\\lib\\winerror.py',
+   'PYMODULE'),
+  ('win32com.server.policy',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32com\\server\\policy.py',
+   'PYMODULE'),
+  ('win32com.client',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32com\\client\\__init__.py',
+   'PYMODULE'),
+  ('win32com.client.makepy',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32com\\client\\makepy.py',
+   'PYMODULE'),
+  ('getopt',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\getopt.py',
+   'PYMODULE'),
+  ('gettext',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\gettext.py',
+   'PYMODULE'),
+  ('copy',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\copy.py',
+   'PYMODULE'),
+  ('struct',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\struct.py',
+   'PYMODULE'),
+  ('pywin.dialogs.status',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\Pythonwin\\pywin\\dialogs\\status.py',
+   'PYMODULE'),
+  ('_strptime',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\_strptime.py',
+   'PYMODULE'),
+  ('datetime',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\datetime.py',
+   'PYMODULE'),
+  ('calendar',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\calendar.py',
+   'PYMODULE'),
+  ('argparse',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\argparse.py',
+   'PYMODULE'),
+  ('textwrap',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\textwrap.py',
+   'PYMODULE'),
+  ('threading',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\threading.py',
+   'PYMODULE'),
+  ('_threading_local',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\_threading_local.py',
+   'PYMODULE'),
+  ('contextlib',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\contextlib.py',
+   'PYMODULE'),
+  ('pywin.mfc.thread',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\Pythonwin\\pywin\\mfc\\thread.py',
+   'PYMODULE'),
+  ('pywin.mfc.object',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\Pythonwin\\pywin\\mfc\\object.py',
+   'PYMODULE'),
+  ('pywin.mfc.dialog',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\Pythonwin\\pywin\\mfc\\dialog.py',
+   'PYMODULE'),
+  ('pywin.mfc.window',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\Pythonwin\\pywin\\mfc\\window.py',
+   'PYMODULE'),
+  ('pywin.mfc',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\Pythonwin\\pywin\\mfc\\__init__.py',
+   'PYMODULE'),
+  ('pywin.dialogs',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\Pythonwin\\pywin\\dialogs\\__init__.py',
+   'PYMODULE'),
+  ('pywin',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\Pythonwin\\pywin\\__init__.py',
+   'PYMODULE'),
+  ('win32com.client.gencache',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32com\\client\\gencache.py',
+   'PYMODULE'),
+  ('zipfile',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\zipfile.py',
+   'PYMODULE'),
+  ('py_compile',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\py_compile.py',
+   'PYMODULE'),
+  ('ntpath',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\ntpath.py',
+   'PYMODULE'),
+  ('string',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\string.py',
+   'PYMODULE'),
+  ('genericpath',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\genericpath.py',
+   'PYMODULE'),
+  ('importlib.machinery',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\importlib\\machinery.py',
+   'PYMODULE'),
+  ('importlib',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\importlib\\__init__.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('tokenize',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\tokenize.py',
+   'PYMODULE'),
+  ('token',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\token.py',
+   'PYMODULE'),
+  ('lzma',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\lzma.py',
+   'PYMODULE'),
+  ('_compression',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\_compression.py',
+   'PYMODULE'),
+  ('bz2',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\bz2.py',
+   'PYMODULE'),
+  ('stat',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\stat.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('pickle',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\pickle.py',
+   'PYMODULE'),
+  ('pprint',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\pprint.py',
+   'PYMODULE'),
+  ('doctest',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\doctest.py',
+   'PYMODULE'),
+  ('unittest',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\unittest\\__init__.py',
+   'PYMODULE'),
+  ('unittest.signals',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\unittest\\signals.py',
+   'PYMODULE'),
+  ('signal',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\signal.py',
+   'PYMODULE'),
+  ('unittest.main',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\unittest\\main.py',
+   'PYMODULE'),
+  ('unittest.runner',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\unittest\\runner.py',
+   'PYMODULE'),
+  ('unittest.loader',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\unittest\\loader.py',
+   'PYMODULE'),
+  ('fnmatch',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\fnmatch.py',
+   'PYMODULE'),
+  ('posixpath',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\posixpath.py',
+   'PYMODULE'),
+  ('unittest.suite',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\unittest\\suite.py',
+   'PYMODULE'),
+  ('unittest.case',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\unittest\\case.py',
+   'PYMODULE'),
+  ('logging',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('unittest.result',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\unittest\\result.py',
+   'PYMODULE'),
+  ('unittest.util',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\unittest\\util.py',
+   'PYMODULE'),
+  ('pdb',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\pdb.py',
+   'PYMODULE'),
+  ('pydoc',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\pydoc.py',
+   'PYMODULE'),
+  ('webbrowser',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\webbrowser.py',
+   'PYMODULE'),
+  ('socket',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\socket.py',
+   'PYMODULE'),
+  ('selectors',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\selectors.py',
+   'PYMODULE'),
+  ('email.message',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\email\\message.py',
+   'PYMODULE'),
+  ('email.policy',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\email\\policy.py',
+   'PYMODULE'),
+  ('email.contentmanager',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\email\\contentmanager.py',
+   'PYMODULE'),
+  ('email.quoprimime',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\email\\quoprimime.py',
+   'PYMODULE'),
+  ('email.headerregistry',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\email\\headerregistry.py',
+   'PYMODULE'),
+  ('email._header_value_parser',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\email\\_header_value_parser.py',
+   'PYMODULE'),
+  ('urllib',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\urllib\\__init__.py',
+   'PYMODULE'),
+  ('email.iterators',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\email\\iterators.py',
+   'PYMODULE'),
+  ('email.generator',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\email\\generator.py',
+   'PYMODULE'),
+  ('email._encoded_words',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('base64',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\base64.py',
+   'PYMODULE'),
+  ('email.charset',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\email\\charset.py',
+   'PYMODULE'),
+  ('email.encoders',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\email\\encoders.py',
+   'PYMODULE'),
+  ('email.base64mime',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\email\\base64mime.py',
+   'PYMODULE'),
+  ('email._policybase',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\email\\_policybase.py',
+   'PYMODULE'),
+  ('email.header',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\email\\header.py',
+   'PYMODULE'),
+  ('email.errors',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\email\\errors.py',
+   'PYMODULE'),
+  ('email.utils',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\email\\utils.py',
+   'PYMODULE'),
+  ('email._parseaddr',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\email\\_parseaddr.py',
+   'PYMODULE'),
+  ('email',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\email\\__init__.py',
+   'PYMODULE'),
+  ('email.parser',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\email\\parser.py',
+   'PYMODULE'),
+  ('email.feedparser',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\email\\feedparser.py',
+   'PYMODULE'),
+  ('quopri',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\quopri.py',
+   'PYMODULE'),
+  ('uu',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\uu.py',
+   'PYMODULE'),
+  ('optparse',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\optparse.py',
+   'PYMODULE'),
+  ('http.server',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\http\\server.py',
+   'PYMODULE'),
+  ('http',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\http\\__init__.py',
+   'PYMODULE'),
+  ('socketserver',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\socketserver.py',
+   'PYMODULE'),
+  ('mimetypes',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\mimetypes.py',
+   'PYMODULE'),
+  ('http.client',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\http\\client.py',
+   'PYMODULE'),
+  ('ssl',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\ssl.py',
+   'PYMODULE'),
+  ('html',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\html\\__init__.py',
+   'PYMODULE'),
+  ('html.entities',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\html\\entities.py',
+   'PYMODULE'),
+  ('pydoc_data.topics',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\pydoc_data\\topics.py',
+   'PYMODULE'),
+  ('pydoc_data',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\pydoc_data\\__init__.py',
+   'PYMODULE'),
+  ('tty',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\tty.py',
+   'PYMODULE'),
+  ('subprocess',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\subprocess.py',
+   'PYMODULE'),
+  ('urllib.parse',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\urllib\\parse.py',
+   'PYMODULE'),
+  ('sysconfig',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\sysconfig.py',
+   'PYMODULE'),
+  ('_osx_support',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\_osx_support.py',
+   'PYMODULE'),
+  ('distutils.log',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\log.py',
+   'PYMODULE'),
+  ('distutils',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\__init__.py',
+   'PYMODULE'),
+  ('distutils.sysconfig',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\sysconfig.py',
+   'PYMODULE'),
+  ('distutils.text_file',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\text_file.py',
+   'PYMODULE'),
+  ('distutils.errors',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\distutils\\errors.py',
+   'PYMODULE'),
+  ('platform',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\platform.py',
+   'PYMODULE'),
+  ('plistlib',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\plistlib.py',
+   'PYMODULE'),
+  ('xml.parsers.expat',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('urllib.request',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\urllib\\request.py',
+   'PYMODULE'),
+  ('getpass',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\getpass.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\nturl2path.py',
+   'PYMODULE'),
+  ('ftplib',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\ftplib.py',
+   'PYMODULE'),
+  ('netrc',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\netrc.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\http\\cookiejar.py',
+   'PYMODULE'),
+  ('urllib.response',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\urllib\\response.py',
+   'PYMODULE'),
+  ('urllib.error',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\urllib\\error.py',
+   'PYMODULE'),
+  ('hashlib',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\hashlib.py',
+   'PYMODULE'),
+  ('bisect',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\bisect.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
+  ('pkgutil',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\pkgutil.py',
+   'PYMODULE'),
+  ('runpy',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\runpy.py',
+   'PYMODULE'),
+  ('shlex',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\shlex.py',
+   'PYMODULE'),
+  ('code',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\code.py',
+   'PYMODULE'),
+  ('codeop',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\codeop.py',
+   'PYMODULE'),
+  ('dis',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\dis.py',
+   'PYMODULE'),
+  ('opcode',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\opcode.py',
+   'PYMODULE'),
+  ('bdb',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\bdb.py',
+   'PYMODULE'),
+  ('cmd',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\cmd.py',
+   'PYMODULE'),
+  ('inspect',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\inspect.py',
+   'PYMODULE'),
+  ('ast',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\ast.py',
+   'PYMODULE'),
+  ('difflib',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\difflib.py',
+   'PYMODULE'),
+  ('__future__',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\__future__.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('glob',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\glob.py',
+   'PYMODULE'),
+  ('win32com.client.selecttlb',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32com\\client\\selecttlb.py',
+   'PYMODULE'),
+  ('pywin.dialogs.list',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\Pythonwin\\pywin\\dialogs\\list.py',
+   'PYMODULE'),
+  ('commctrl',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32\\lib\\commctrl.py',
+   'PYMODULE'),
+  ('win32com.client.genpy',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32com\\client\\genpy.py',
+   'PYMODULE'),
+  ('win32com.client.CLSIDToClass',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32com\\client\\CLSIDToClass.py',
+   'PYMODULE'),
+  ('win32com.client.dynamic',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32com\\client\\dynamic.py',
+   'PYMODULE'),
+  ('win32com.client.build',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32com\\client\\build.py',
+   'PYMODULE'),
+  ('pywintypes',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32\\lib\\pywintypes.py',
+   'PYMODULE'),
+  ('win32com.server',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32com\\server\\__init__.py',
+   'PYMODULE'),
+  ('win32com.universal',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32com\\universal.py',
+   'PYMODULE'),
+  ('win32com.client.util',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32com\\client\\util.py',
+   'PYMODULE'),
+  ('imp',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\imp.py',
+   'PYMODULE'),
+  ('pythoncom',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pythoncom.py',
+   'PYMODULE'),
+  ('tempfile',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\tempfile.py',
+   'PYMODULE'),
+  ('shutil',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\shutil.py',
+   'PYMODULE'),
+  ('tarfile',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\tarfile.py',
+   'PYMODULE'),
+  ('gzip',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\gzip.py',
+   'PYMODULE'),
+  ('os',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\os.py',
+   'PYMODULE'),
+  ('pkg_resources',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pkg_resources\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources.py2_warn',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pkg_resources\\py2_warn.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.six',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pkg_resources\\_vendor\\six.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.version',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\version.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._structures',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.markers',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\markers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.utils',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\utils.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.requirements',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\requirements.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.__about__',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__about__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pkg_resources\\_vendor\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pkg_resources\\_vendor\\pyparsing.py',
+   'PYMODULE'),
+  ('uuid',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\uuid.py',
+   'PYMODULE'),
+  ('ctypes.util',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\ctypes\\util.py',
+   'PYMODULE'),
+  ('ctypes._aix',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\ctypes\\_aix.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dyld',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\ctypes\\macholib\\dyld.py',
+   'PYMODULE'),
+  ('ctypes.macholib',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\ctypes\\macholib\\__init__.py',
+   'PYMODULE'),
+  ('ctypes.macholib.dylib',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\ctypes\\macholib\\dylib.py',
+   'PYMODULE'),
+  ('ctypes.macholib.framework',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\ctypes\\macholib\\framework.py',
+   'PYMODULE'),
+  ('netbios',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32\\lib\\netbios.py',
+   'PYMODULE'),
+  ('ctypes',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.specifiers',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._compat',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_compat.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.appdirs',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pkg_resources\\_vendor\\appdirs.py',
+   'PYMODULE'),
+  ('win32com.shell.shellcon',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32comext\\shell\\shellcon.py',
+   'PYMODULE'),
+  ('win32com.shell',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32comext\\shell\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources.py31compat',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pkg_resources\\py31compat.py',
+   'PYMODULE'),
+  ('pkg_resources.extern',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pkg_resources\\extern\\__init__.py',
+   'PYMODULE'),
+  ('tracemalloc',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\tracemalloc.py',
+   'PYMODULE'),
+  ('typing',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\typing.py',
+   'PYMODULE'),
+  ('stringprep',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\stringprep.py',
+   'PYMODULE'),
+  ('_py_abc',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\_py_abc.py',
+   'PYMODULE'),
+  ('random',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\random.py',
+   'PYMODULE'),
+  ('pygame',
+   'C:\\Users\\Raufur '
+   'Rahman\\AppData\\Roaming\\Python\\Python37\\site-packages\\pygame\\__init__.py',
+   'PYMODULE'),
+  ('pygame.colordict',
+   'C:\\Users\\Raufur '
+   'Rahman\\AppData\\Roaming\\Python\\Python37\\site-packages\\pygame\\colordict.py',
+   'PYMODULE'),
+  ('pygame.macosx',
+   'C:\\Users\\Raufur '
+   'Rahman\\AppData\\Roaming\\Python\\Python37\\site-packages\\pygame\\macosx.py',
+   'PYMODULE'),
+  ('pygame.pkgdata',
+   'C:\\Users\\Raufur '
+   'Rahman\\AppData\\Roaming\\Python\\Python37\\site-packages\\pygame\\pkgdata.py',
+   'PYMODULE'),
+  ('pygame.sndarray',
+   'C:\\Users\\Raufur '
+   'Rahman\\AppData\\Roaming\\Python\\Python37\\site-packages\\pygame\\sndarray.py',
+   'PYMODULE'),
+  ('pygame._numpysndarray',
+   'C:\\Users\\Raufur '
+   'Rahman\\AppData\\Roaming\\Python\\Python37\\site-packages\\pygame\\_numpysndarray.py',
+   'PYMODULE'),
+  ('pygame.surfarray',
+   'C:\\Users\\Raufur '
+   'Rahman\\AppData\\Roaming\\Python\\Python37\\site-packages\\pygame\\surfarray.py',
+   'PYMODULE'),
+  ('pygame._numpysurfarray',
+   'C:\\Users\\Raufur '
+   'Rahman\\AppData\\Roaming\\Python\\Python37\\site-packages\\pygame\\_numpysurfarray.py',
+   'PYMODULE'),
+  ('pygame.sysfont',
+   'C:\\Users\\Raufur '
+   'Rahman\\AppData\\Roaming\\Python\\Python37\\site-packages\\pygame\\sysfont.py',
+   'PYMODULE'),
+  ('xml.etree.ElementTree',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\xml\\etree\\ElementTree.py',
+   'PYMODULE'),
+  ('xml.etree.cElementTree',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\xml\\etree\\cElementTree.py',
+   'PYMODULE'),
+  ('xml.etree.ElementInclude',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\xml\\etree\\ElementInclude.py',
+   'PYMODULE'),
+  ('xml.etree.ElementPath',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\xml\\etree\\ElementPath.py',
+   'PYMODULE'),
+  ('xml.etree',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\xml\\etree\\__init__.py',
+   'PYMODULE'),
+  ('pygame.ftfont',
+   'C:\\Users\\Raufur '
+   'Rahman\\AppData\\Roaming\\Python\\Python37\\site-packages\\pygame\\ftfont.py',
+   'PYMODULE'),
+  ('pygame.threads',
+   'C:\\Users\\Raufur '
+   'Rahman\\AppData\\Roaming\\Python\\Python37\\site-packages\\pygame\\threads\\__init__.py',
+   'PYMODULE'),
+  ('queue',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\queue.py',
+   'PYMODULE'),
+  ('pygame.sprite',
+   'C:\\Users\\Raufur '
+   'Rahman\\AppData\\Roaming\\Python\\Python37\\site-packages\\pygame\\sprite.py',
+   'PYMODULE'),
+  ('pygame.cursors',
+   'C:\\Users\\Raufur '
+   'Rahman\\AppData\\Roaming\\Python\\Python37\\site-packages\\pygame\\cursors.py',
+   'PYMODULE'),
+  ('pygame.compat',
+   'C:\\Users\\Raufur '
+   'Rahman\\AppData\\Roaming\\Python\\Python37\\site-packages\\pygame\\compat.py',
+   'PYMODULE'),
+  ('pygame.version',
+   'C:\\Users\\Raufur '
+   'Rahman\\AppData\\Roaming\\Python\\Python37\\site-packages\\pygame\\version.py',
+   'PYMODULE')],
+ [('api-ms-win-crt-locale-l1-1-0.dll',
+   'C:\\Users\\Raufur Rahman\\AppData\\Local\\Programs\\MiKTeX '
+   '2.9\\miktex\\bin\\x64\\api-ms-win-crt-locale-l1-1-0.dll',
+   'BINARY'),
+  ('python37.dll',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\python37.dll',
+   'BINARY'),
+  ('api-ms-win-crt-heap-l1-1-0.dll',
+   'C:\\Users\\Raufur Rahman\\AppData\\Local\\Programs\\MiKTeX '
+   '2.9\\miktex\\bin\\x64\\api-ms-win-crt-heap-l1-1-0.dll',
+   'BINARY'),
+  ('VCRUNTIME140.dll',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\VCRUNTIME140.dll',
+   'BINARY'),
+  ('api-ms-win-crt-stdio-l1-1-0.dll',
+   'C:\\Users\\Raufur Rahman\\AppData\\Local\\Programs\\MiKTeX '
+   '2.9\\miktex\\bin\\x64\\api-ms-win-crt-stdio-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-math-l1-1-0.dll',
+   'C:\\Users\\Raufur Rahman\\AppData\\Local\\Programs\\MiKTeX '
+   '2.9\\miktex\\bin\\x64\\api-ms-win-crt-math-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-runtime-l1-1-0.dll',
+   'C:\\Users\\Raufur Rahman\\AppData\\Local\\Programs\\MiKTeX '
+   '2.9\\miktex\\bin\\x64\\api-ms-win-crt-runtime-l1-1-0.dll',
+   'BINARY'),
+  ('ucrtbase.dll',
+   'C:\\Users\\Raufur Rahman\\AppData\\Local\\Programs\\MiKTeX '
+   '2.9\\miktex\\bin\\x64\\ucrtbase.dll',
+   'BINARY'),
+  ('api-ms-win-crt-convert-l1-1-0.dll',
+   'C:\\Users\\Raufur Rahman\\AppData\\Local\\Programs\\MiKTeX '
+   '2.9\\miktex\\bin\\x64\\api-ms-win-crt-convert-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-time-l1-1-0.dll',
+   'C:\\Users\\Raufur Rahman\\AppData\\Local\\Programs\\MiKTeX '
+   '2.9\\miktex\\bin\\x64\\api-ms-win-crt-time-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-process-l1-1-0.dll',
+   'C:\\Users\\Raufur Rahman\\AppData\\Local\\Programs\\MiKTeX '
+   '2.9\\miktex\\bin\\x64\\api-ms-win-crt-process-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-conio-l1-1-0.dll',
+   'C:\\Users\\Raufur Rahman\\AppData\\Local\\Programs\\MiKTeX '
+   '2.9\\miktex\\bin\\x64\\api-ms-win-crt-conio-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-string-l1-1-0.dll',
+   'C:\\Users\\Raufur Rahman\\AppData\\Local\\Programs\\MiKTeX '
+   '2.9\\miktex\\bin\\x64\\api-ms-win-crt-string-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-environment-l1-1-0.dll',
+   'C:\\Users\\Raufur Rahman\\AppData\\Local\\Programs\\MiKTeX '
+   '2.9\\miktex\\bin\\x64\\api-ms-win-crt-environment-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-crt-filesystem-l1-1-0.dll',
+   'C:\\Users\\Raufur Rahman\\AppData\\Local\\Programs\\MiKTeX '
+   '2.9\\miktex\\bin\\x64\\api-ms-win-crt-filesystem-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-console-l1-1-0.dll',
+   'C:\\Users\\Raufur Rahman\\AppData\\Local\\Programs\\MiKTeX '
+   '2.9\\miktex\\bin\\x64\\api-ms-win-core-console-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-heap-l1-1-0.dll',
+   'C:\\Users\\Raufur Rahman\\AppData\\Local\\Programs\\MiKTeX '
+   '2.9\\miktex\\bin\\x64\\api-ms-win-core-heap-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-handle-l1-1-0.dll',
+   'C:\\Users\\Raufur Rahman\\AppData\\Local\\Programs\\MiKTeX '
+   '2.9\\miktex\\bin\\x64\\api-ms-win-core-handle-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-memory-l1-1-0.dll',
+   'C:\\Users\\Raufur Rahman\\AppData\\Local\\Programs\\MiKTeX '
+   '2.9\\miktex\\bin\\x64\\api-ms-win-core-memory-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-datetime-l1-1-0.dll',
+   'C:\\Users\\Raufur Rahman\\AppData\\Local\\Programs\\MiKTeX '
+   '2.9\\miktex\\bin\\x64\\api-ms-win-core-datetime-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processthreads-l1-1-0.dll',
+   'C:\\Users\\Raufur Rahman\\AppData\\Local\\Programs\\MiKTeX '
+   '2.9\\miktex\\bin\\x64\\api-ms-win-core-processthreads-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processthreads-l1-1-1.dll',
+   'C:\\Users\\Raufur Rahman\\AppData\\Local\\Programs\\MiKTeX '
+   '2.9\\miktex\\bin\\x64\\api-ms-win-core-processthreads-l1-1-1.dll',
+   'BINARY'),
+  ('api-ms-win-core-string-l1-1-0.dll',
+   'C:\\Users\\Raufur Rahman\\AppData\\Local\\Programs\\MiKTeX '
+   '2.9\\miktex\\bin\\x64\\api-ms-win-core-string-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-util-l1-1-0.dll',
+   'C:\\Users\\Raufur Rahman\\AppData\\Local\\Programs\\MiKTeX '
+   '2.9\\miktex\\bin\\x64\\api-ms-win-core-util-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-synch-l1-1-0.dll',
+   'C:\\Users\\Raufur Rahman\\AppData\\Local\\Programs\\MiKTeX '
+   '2.9\\miktex\\bin\\x64\\api-ms-win-core-synch-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-namedpipe-l1-1-0.dll',
+   'C:\\Users\\Raufur Rahman\\AppData\\Local\\Programs\\MiKTeX '
+   '2.9\\miktex\\bin\\x64\\api-ms-win-core-namedpipe-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l1-2-0.dll',
+   'C:\\Users\\Raufur Rahman\\AppData\\Local\\Programs\\MiKTeX '
+   '2.9\\miktex\\bin\\x64\\api-ms-win-core-file-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l2-1-0.dll',
+   'C:\\Users\\Raufur Rahman\\AppData\\Local\\Programs\\MiKTeX '
+   '2.9\\miktex\\bin\\x64\\api-ms-win-core-file-l2-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-profile-l1-1-0.dll',
+   'C:\\Users\\Raufur Rahman\\AppData\\Local\\Programs\\MiKTeX '
+   '2.9\\miktex\\bin\\x64\\api-ms-win-core-profile-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-errorhandling-l1-1-0.dll',
+   'C:\\Users\\Raufur Rahman\\AppData\\Local\\Programs\\MiKTeX '
+   '2.9\\miktex\\bin\\x64\\api-ms-win-core-errorhandling-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-localization-l1-2-0.dll',
+   'C:\\Users\\Raufur Rahman\\AppData\\Local\\Programs\\MiKTeX '
+   '2.9\\miktex\\bin\\x64\\api-ms-win-core-localization-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-rtlsupport-l1-1-0.dll',
+   'C:\\Users\\Raufur Rahman\\AppData\\Local\\Programs\\MiKTeX '
+   '2.9\\miktex\\bin\\x64\\api-ms-win-core-rtlsupport-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-synch-l1-2-0.dll',
+   'C:\\Users\\Raufur Rahman\\AppData\\Local\\Programs\\MiKTeX '
+   '2.9\\miktex\\bin\\x64\\api-ms-win-core-synch-l1-2-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-sysinfo-l1-1-0.dll',
+   'C:\\Users\\Raufur Rahman\\AppData\\Local\\Programs\\MiKTeX '
+   '2.9\\miktex\\bin\\x64\\api-ms-win-core-sysinfo-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-processenvironment-l1-1-0.dll',
+   'C:\\Users\\Raufur Rahman\\AppData\\Local\\Programs\\MiKTeX '
+   '2.9\\miktex\\bin\\x64\\api-ms-win-core-processenvironment-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-timezone-l1-1-0.dll',
+   'C:\\Users\\Raufur Rahman\\AppData\\Local\\Programs\\MiKTeX '
+   '2.9\\miktex\\bin\\x64\\api-ms-win-core-timezone-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-file-l1-1-0.dll',
+   'C:\\Users\\Raufur Rahman\\AppData\\Local\\Programs\\MiKTeX '
+   '2.9\\miktex\\bin\\x64\\api-ms-win-core-file-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-libraryloader-l1-1-0.dll',
+   'C:\\Users\\Raufur Rahman\\AppData\\Local\\Programs\\MiKTeX '
+   '2.9\\miktex\\bin\\x64\\api-ms-win-core-libraryloader-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-debug-l1-1-0.dll',
+   'C:\\Users\\Raufur Rahman\\AppData\\Local\\Programs\\MiKTeX '
+   '2.9\\miktex\\bin\\x64\\api-ms-win-core-debug-l1-1-0.dll',
+   'BINARY'),
+  ('api-ms-win-core-interlocked-l1-1-0.dll',
+   'C:\\Users\\Raufur Rahman\\AppData\\Local\\Programs\\MiKTeX '
+   '2.9\\miktex\\bin\\x64\\api-ms-win-core-interlocked-l1-1-0.dll',
+   'BINARY'),
+  ('pywintypes37.dll',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pywin32_system32\\pywintypes37.dll',
+   'BINARY'),
+  ('pythoncom37.dll',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\pywin32_system32\\pythoncom37.dll',
+   'BINARY'),
+  ('win32trace',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32\\win32trace.pyd',
+   'EXTENSION'),
+  ('win32ui',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\Pythonwin\\win32ui.pyd',
+   'EXTENSION'),
+  ('_lzma',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\DLLs\\_lzma.pyd',
+   'EXTENSION'),
+  ('_bz2',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\DLLs\\_bz2.pyd',
+   'EXTENSION'),
+  ('_socket',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\DLLs\\_socket.pyd',
+   'EXTENSION'),
+  ('select',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\DLLs\\select.pyd',
+   'EXTENSION'),
+  ('_ssl',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\DLLs\\_ssl.pyd',
+   'EXTENSION'),
+  ('unicodedata',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\DLLs\\unicodedata.pyd',
+   'EXTENSION'),
+  ('_hashlib',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\DLLs\\_hashlib.pyd',
+   'EXTENSION'),
+  ('pyexpat',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\DLLs\\pyexpat.pyd',
+   'EXTENSION'),
+  ('_win32sysloader',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32\\_win32sysloader.pyd',
+   'EXTENSION'),
+  ('win32api',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32\\win32api.pyd',
+   'EXTENSION'),
+  ('win32wnet',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32\\win32wnet.pyd',
+   'EXTENSION'),
+  ('_ctypes',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\DLLs\\_ctypes.pyd',
+   'EXTENSION'),
+  ('win32com.shell.shell',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\win32comext\\shell\\shell.pyd',
+   'EXTENSION'),
+  ('pygame.imageext',
+   'C:\\Users\\Raufur '
+   'Rahman\\AppData\\Roaming\\Python\\Python37\\site-packages\\pygame\\imageext.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame.fastevent',
+   'C:\\Users\\Raufur '
+   'Rahman\\AppData\\Roaming\\Python\\Python37\\site-packages\\pygame\\fastevent.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame.scrap',
+   'C:\\Users\\Raufur '
+   'Rahman\\AppData\\Roaming\\Python\\Python37\\site-packages\\pygame\\scrap.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame.mixer',
+   'C:\\Users\\Raufur '
+   'Rahman\\AppData\\Roaming\\Python\\Python37\\site-packages\\pygame\\mixer.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame.mixer_music',
+   'C:\\Users\\Raufur '
+   'Rahman\\AppData\\Roaming\\Python\\Python37\\site-packages\\pygame\\mixer_music.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('_elementtree',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\DLLs\\_elementtree.pyd',
+   'EXTENSION'),
+  ('pygame.font',
+   'C:\\Users\\Raufur '
+   'Rahman\\AppData\\Roaming\\Python\\Python37\\site-packages\\pygame\\font.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame._freetype',
+   'C:\\Users\\Raufur '
+   'Rahman\\AppData\\Roaming\\Python\\Python37\\site-packages\\pygame\\_freetype.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame.transform',
+   'C:\\Users\\Raufur '
+   'Rahman\\AppData\\Roaming\\Python\\Python37\\site-packages\\pygame\\transform.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame.time',
+   'C:\\Users\\Raufur '
+   'Rahman\\AppData\\Roaming\\Python\\Python37\\site-packages\\pygame\\time.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame.overlay',
+   'C:\\Users\\Raufur '
+   'Rahman\\AppData\\Roaming\\Python\\Python37\\site-packages\\pygame\\overlay.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame.pixelarray',
+   'C:\\Users\\Raufur '
+   'Rahman\\AppData\\Roaming\\Python\\Python37\\site-packages\\pygame\\pixelarray.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame.mask',
+   'C:\\Users\\Raufur '
+   'Rahman\\AppData\\Roaming\\Python\\Python37\\site-packages\\pygame\\mask.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame.surface',
+   'C:\\Users\\Raufur '
+   'Rahman\\AppData\\Roaming\\Python\\Python37\\site-packages\\pygame\\surface.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame.pixelcopy',
+   'C:\\Users\\Raufur '
+   'Rahman\\AppData\\Roaming\\Python\\Python37\\site-packages\\pygame\\pixelcopy.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('_queue',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\DLLs\\_queue.pyd',
+   'EXTENSION'),
+  ('pygame.mouse',
+   'C:\\Users\\Raufur '
+   'Rahman\\AppData\\Roaming\\Python\\Python37\\site-packages\\pygame\\mouse.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame.key',
+   'C:\\Users\\Raufur '
+   'Rahman\\AppData\\Roaming\\Python\\Python37\\site-packages\\pygame\\key.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame.joystick',
+   'C:\\Users\\Raufur '
+   'Rahman\\AppData\\Roaming\\Python\\Python37\\site-packages\\pygame\\joystick.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame.image',
+   'C:\\Users\\Raufur '
+   'Rahman\\AppData\\Roaming\\Python\\Python37\\site-packages\\pygame\\image.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame.event',
+   'C:\\Users\\Raufur '
+   'Rahman\\AppData\\Roaming\\Python\\Python37\\site-packages\\pygame\\event.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame.draw',
+   'C:\\Users\\Raufur '
+   'Rahman\\AppData\\Roaming\\Python\\Python37\\site-packages\\pygame\\draw.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame.display',
+   'C:\\Users\\Raufur '
+   'Rahman\\AppData\\Roaming\\Python\\Python37\\site-packages\\pygame\\display.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame.cdrom',
+   'C:\\Users\\Raufur '
+   'Rahman\\AppData\\Roaming\\Python\\Python37\\site-packages\\pygame\\cdrom.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame.math',
+   'C:\\Users\\Raufur '
+   'Rahman\\AppData\\Roaming\\Python\\Python37\\site-packages\\pygame\\math.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame.bufferproxy',
+   'C:\\Users\\Raufur '
+   'Rahman\\AppData\\Roaming\\Python\\Python37\\site-packages\\pygame\\bufferproxy.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame.color',
+   'C:\\Users\\Raufur '
+   'Rahman\\AppData\\Roaming\\Python\\Python37\\site-packages\\pygame\\color.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame.surflock',
+   'C:\\Users\\Raufur '
+   'Rahman\\AppData\\Roaming\\Python\\Python37\\site-packages\\pygame\\surflock.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame.rwobject',
+   'C:\\Users\\Raufur '
+   'Rahman\\AppData\\Roaming\\Python\\Python37\\site-packages\\pygame\\rwobject.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame.rect',
+   'C:\\Users\\Raufur '
+   'Rahman\\AppData\\Roaming\\Python\\Python37\\site-packages\\pygame\\rect.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame.constants',
+   'C:\\Users\\Raufur '
+   'Rahman\\AppData\\Roaming\\Python\\Python37\\site-packages\\pygame\\constants.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('pygame.base',
+   'C:\\Users\\Raufur '
+   'Rahman\\AppData\\Roaming\\Python\\Python37\\site-packages\\pygame\\base.cp37-win_amd64.pyd',
+   'EXTENSION'),
+  ('api-ms-win-crt-utility-l1-1-0.dll',
+   'C:\\Users\\Raufur Rahman\\AppData\\Local\\Programs\\MiKTeX '
+   '2.9\\miktex\\bin\\x64\\api-ms-win-crt-utility-l1-1-0.dll',
+   'BINARY'),
+  ('mfc140u.dll',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\lib\\site-packages\\Pythonwin\\mfc140u.dll',
+   'BINARY'),
+  ('libssl-1_1.dll',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\DLLs\\libssl-1_1.dll',
+   'BINARY'),
+  ('libcrypto-1_1.dll',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\DLLs\\libcrypto-1_1.dll',
+   'BINARY'),
+  ('SDL.dll',
+   'C:\\Users\\Raufur '
+   'Rahman\\AppData\\Roaming\\Python\\Python37\\site-packages\\pygame\\SDL.dll',
+   'BINARY'),
+  ('SDL_image.dll',
+   'C:\\Users\\Raufur '
+   'Rahman\\AppData\\Roaming\\Python\\Python37\\site-packages\\pygame\\SDL_image.dll',
+   'BINARY'),
+  ('libjpeg-8.dll',
+   'C:\\Users\\Raufur '
+   'Rahman\\AppData\\Roaming\\Python\\Python37\\site-packages\\pygame\\libjpeg-8.dll',
+   'BINARY'),
+  ('libpng16-16.dll',
+   'C:\\Users\\Raufur '
+   'Rahman\\AppData\\Roaming\\Python\\Python37\\site-packages\\pygame\\libpng16-16.dll',
+   'BINARY'),
+  ('SDL_mixer.dll',
+   'C:\\Users\\Raufur '
+   'Rahman\\AppData\\Roaming\\Python\\Python37\\site-packages\\pygame\\SDL_mixer.dll',
+   'BINARY'),
+  ('SDL_ttf.dll',
+   'C:\\Users\\Raufur '
+   'Rahman\\AppData\\Roaming\\Python\\Python37\\site-packages\\pygame\\SDL_ttf.dll',
+   'BINARY'),
+  ('libfreetype-6.dll',
+   'C:\\Users\\Raufur '
+   'Rahman\\AppData\\Roaming\\Python\\Python37\\site-packages\\pygame\\libfreetype-6.dll',
+   'BINARY'),
+  ('api-ms-win-crt-multibyte-l1-1-0.dll',
+   'C:\\Users\\Raufur Rahman\\AppData\\Local\\Programs\\MiKTeX '
+   '2.9\\miktex\\bin\\x64\\api-ms-win-crt-multibyte-l1-1-0.dll',
+   'BINARY'),
+  ('libtiff-5.dll',
+   'C:\\Users\\Raufur '
+   'Rahman\\AppData\\Roaming\\Python\\Python37\\site-packages\\pygame\\libtiff-5.dll',
+   'BINARY'),
+  ('libwebp-5.dll',
+   'C:\\Users\\Raufur '
+   'Rahman\\AppData\\Roaming\\Python\\Python37\\site-packages\\pygame\\libwebp-5.dll',
+   'BINARY'),
+  ('zlib1.dll',
+   'C:\\Users\\Raufur '
+   'Rahman\\AppData\\Roaming\\Python\\Python37\\site-packages\\pygame\\zlib1.dll',
+   'BINARY'),
+  ('libvorbisfile-3.dll',
+   'C:\\Users\\Raufur '
+   'Rahman\\AppData\\Roaming\\Python\\Python37\\site-packages\\pygame\\libvorbisfile-3.dll',
+   'BINARY'),
+  ('libmpg123-0.dll',
+   'C:\\Users\\Raufur '
+   'Rahman\\AppData\\Roaming\\Python\\Python37\\site-packages\\pygame\\libmpg123-0.dll',
+   'BINARY'),
+  ('libvorbis-0.dll',
+   'C:\\Users\\Raufur '
+   'Rahman\\AppData\\Roaming\\Python\\Python37\\site-packages\\pygame\\libvorbis-0.dll',
+   'BINARY'),
+  ('libogg-0.dll',
+   'C:\\Users\\Raufur '
+   'Rahman\\AppData\\Roaming\\Python\\Python37\\site-packages\\pygame\\libogg-0.dll',
+   'BINARY')],
+ [],
+ [],
+ [('base_library.zip',
+   'E:\\Projects\\Shooting_Game\\build\\main\\base_library.zip',
+   'DATA'),
+  ('Include\\pyconfig.h',
+   'c:\\users\\raufur '
+   'rahman\\appdata\\local\\programs\\python\\python37\\Include\\pyconfig.h',
+   'DATA')],
+ [])
